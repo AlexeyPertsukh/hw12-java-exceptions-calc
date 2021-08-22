@@ -279,6 +279,7 @@ public class Calc {
         System.out.println("• Поддерживаются операции: " + MyArr.arrToStr(Formula.operators," , ") );
         System.out.println("• Трассировка показывает последовательность выполнения расчетов");
         System.out.println("----");
+        System.out.println("https://github.com/AlexeyPertsukh/hw12-java-exceptions-calc");
         System.out.println();
     }
 
