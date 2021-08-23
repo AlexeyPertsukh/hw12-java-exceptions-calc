@@ -16,7 +16,7 @@ public class Calc {
     private static final String CMD_SW_TRACE = "#";    //команда вкл/откл трассировки вычислений
     private static final String CMD_TEST = "test";     //команда ввода тестовой формулы
 
-    //формула для тестирования
+    //формулы для тестирования
     private static final String[][] FORMULA_TESTS = {
             {"3+6^2*3+((2+(-1*18+3)+(3+64/8-2)^3)+7)+25^3", "16459"},
             {"78/6*9+(((((9*6-6)+(-6+3/2+1))+1)+2*3)*2)+6/3-5", "217"},
